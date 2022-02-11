@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/focalizekannan.github.io/quiz/static/css/main.b850f3a4.css",
+    "main.js": "/focalizekannan.github.io/quiz/static/js/main.aa153b5b.js",
+    "index.html": "/focalizekannan.github.io/quiz/index.html",
+    "main.b850f3a4.css.map": "/focalizekannan.github.io/quiz/static/css/main.b850f3a4.css.map",
+    "main.aa153b5b.js.map": "/focalizekannan.github.io/quiz/static/js/main.aa153b5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b850f3a4.css",
+    "static/js/main.aa153b5b.js"
+  ]
+}
